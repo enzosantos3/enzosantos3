@@ -1,13 +1,12 @@
-# 🤓 Enzo Santos
+# 😎 Enzo Santos
 
-**`"Aprender é expandir horizontes, transformar desafios em oportunidades e crescer a cada descoberta"`**
+**`"Learning is expanding horizons, transforming challenges into opportunities and growing with each discovery."`**
 
-Me chamo Enzo dos Santos Mendes, tenho 18 anos e sou natural de Guarulhos, SP. Atualmente, moro em Maringá, PR, e curso Análise e Desenvolvimento de Sistemas na Unicesumar. Desde a infância, sou apaixonado por tecnologia, sempre buscando aprender e explorar novas possibilidades nessa área.
-
+My name is Enzo dos Santos Mendes, I'm 18 years old and I'm from Guarulhos, SP. I currently live in Maringá, PR, and I study Systems Analysis and Development at Unicesumar. Since childhood, I've been passionate about technology, always seeking to learn and explore new possibilities in this area.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -43,7 +42,7 @@ Me chamo Enzo dos Santos Mendes, tenho 18 anos e sou natural de Guarulhos, SP. A
 />     
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -51,13 +50,13 @@ Me chamo Enzo dos Santos Mendes, tenho 18 anos e sou natural de Guarulhos, SP. A
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=enzosantos3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=enzosantos3&show_icons=true&theme=transparent&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosantos3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosantos3&theme=transparent&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
