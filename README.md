@@ -1,6 +1,6 @@
 # 😎 Enzo Santos
 
-**`"Learning is expanding horizons, transforming challenges into opportunities and growing with each discovery."`**
+*`"Aprender é expandir horizontes, transformar desafios em oportunidades e crescer a cada descoberta."`*
 
 My name is Enzo dos Santos Mendes, I'm 18 years old and I'm from Guarulhos, SP. I currently live in Maringá, PR, and I study Systems Analysis and Development at Unicesumar. Since childhood, I've been passionate about technology, always seeking to learn and explore new possibilities in this area.
 
