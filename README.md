@@ -66,5 +66,3 @@ My name is Enzo dos Santos Mendes, I'm 18 years old and I'm from Guarulhos, SP. 
 </div>  
 
 </p>
-
- ![snake.animation] .github/workflows/snake.yml
