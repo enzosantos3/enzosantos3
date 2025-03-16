@@ -60,3 +60,10 @@ My name is Enzo dos Santos Mendes, I'm 18 years old and I'm from Guarulhos, SP. 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosantos3&theme=transparent&layout=compact&custom_title=Technologias&langs_count=9" 
   />
 </p>
+
+---
+<p>
+  <a href="https://www.instagram.com/enzo333x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:enzosantos333x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://github.com/enzosantos3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
