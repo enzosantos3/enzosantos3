@@ -2,7 +2,7 @@
 
 *`"Aprender é expandir horizontes, transformar desafios em oportunidades e crescer a cada descoberta."`*
 
-My name is Enzo dos Santos Mendes, I'm 18 years old and I'm from Guarulhos, SP. I currently live in Maringá, PR, and I study Systems Analysis and Development at Unicesumar. Since childhood, I've been passionate about technology, always seeking to learn and explore new possibilities in this area.
+Meu nome é Enzo dos Santos Mendes, tenho 18 anos e sou natural de Guarulhos, SP. Atualmente moro em Maringá, PR, e curso Análise e Desenvolvimento de Sistemas na Unicesumar. Desde criança sou apaixonado por tecnologia, sempre buscando aprender, desenvolver minhas habilidades e explorar novas possibilidades nessa área.
 
 ---
 
