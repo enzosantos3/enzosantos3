@@ -49,14 +49,14 @@ My name is Enzo dos Santos Mendes, I'm 18 years old and I'm from Guarulhos, SP. 
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=enzosantos3&theme=transparent&show_icons=true" 
+    src="https://github-readme-stats.vercel.app/api?username=enzosantos3&theme=shadow_blue&show_icons=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosantos3&theme=transparent&show_icons=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosantos3&theme=shadow_blue&show_icons=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 <div> 
