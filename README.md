@@ -57,7 +57,8 @@ Meu nome é Enzo dos Santos Mendes, tenho 18 anos e sou natural de Guarulhos, SP
       alt="GitHub Stats" 
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosantos3&theme=shadow_blue&show_icons=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+ />
+ <img src="https://streak-stats.demolab.com?user=enzosantos3&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  /> 
 
 <div> 
   <a href = "mailto:enzosantos333x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
