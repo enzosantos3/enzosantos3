@@ -43,26 +43,11 @@ Meu nome é Enzo dos Santos Mendes, tenho 18 anos e sou natural de Guarulhos, SP
 <br/>
 
 ### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=enzosantos3&theme=shadow_blue&show_icons=true" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosantos3&theme=shadow_blue&show_icons=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
- />
- <img src="https://streak-stats.demolab.com?user=enzosantos3&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  /> 
-
-<div> 
-  <a href = "mailto:enzosantos333x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://github.com/enzosantos3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img src="https://github-readme-stats.vercel.app/api?username=enzosantos3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzosantos3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=enzosantos3&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 </div>  
 
 </p>
