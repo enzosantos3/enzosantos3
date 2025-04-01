@@ -1,8 +1,6 @@
 # 😎 Enzo Santos
 
-*`"Aprender é expandir horizontes, transformar desafios em oportunidades e crescer a cada descoberta."`*
-
-Meu nome é Enzo dos Santos Mendes, tenho 18 anos e sou natural de Guarulhos, SP. Atualmente moro em Maringá, PR, e curso Análise e Desenvolvimento de Sistemas na Unicesumar. Desde criança sou apaixonado por tecnologia, sempre buscando aprender, desenvolver minhas habilidades e explorar novas possibilidades nessa área.
+*`"Um bom analista não apenas interpreta dados, mas transforma insights em estratégias eficazes."`*
 
 ---
 
