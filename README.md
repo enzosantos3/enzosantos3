@@ -41,9 +41,9 @@
 <br/>
 
 ### 📊 Estatísticas
-
-<div class="container">
-    <img src="https://github-readme-stats.vercel.app/api?username=enzosantos3&theme=codeSTACKr&show_icons=true" height="150" alt="stats graph">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzosantos3&layout=compact&theme=codeSTACKr" height="150" alt="languages graph">
-    <img src="https://streak-stats.demolab.com?user=enzosantos3&theme=codeSTACKr" height="150" alt="streak graph">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzosantos3&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=vision-friendly-dark&hide_border=true&order=2" style="width: 20vw; height: auto;" alt="Linguagens Mais Usadas" />
+  <img src="https://streak-stats.demolab.com?user=enzosantos3&locale=pt-br&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=5" style="width: 28vw; height: auto;" alt="streak graph" />
 </div>
+
+<br clear="both">
