@@ -8,6 +8,11 @@
 ### 😎 Enzo Santos
 *"Um bom analista não apenas interpreta dados, mas transforma insights em estratégias eficazes."*
 
+<a href="https://www.linkedin.com/in/enzo-santoss/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+</div>
+
 ---
 ### 📊 Estatísticas
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
