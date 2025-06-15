@@ -11,8 +11,9 @@
 
 ---
 
-### Enzo Santos  
+### ☕Enzo Santos  
 ![CoffeefirstSupernaturalGIF](https://github.com/user-attachments/assets/690093ec-1eda-410c-a7b8-f672f7c06bae)
+
 *"Um bom analista não apenas interpreta dados, mas transforma insights em estratégias eficazes."*
 
 <a href="https://www.linkedin.com/in/enzo-santoss/" target="_blank">
