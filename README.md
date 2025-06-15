@@ -10,12 +10,9 @@
 </div>
 
 ---
-![CoffeefirstSupernaturalGIF](https://github.com/user-attachments/assets/690093ec-1eda-410c-a7b8-f672f7c06bae)
-![EatEatingGIF](https://github.com/user-attachments/assets/83dc85b1-303e-46e6-b62e-d1428f78207a)
-
-
 
 ### Enzo Santos  
+![CoffeefirstSupernaturalGIF](https://github.com/user-attachments/assets/690093ec-1eda-410c-a7b8-f672f7c06bae)
 *"Um bom analista não apenas interpreta dados, mas transforma insights em estratégias eficazes."*
 
 <a href="https://www.linkedin.com/in/enzo-santoss/" target="_blank">
